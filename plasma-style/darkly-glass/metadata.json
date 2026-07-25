@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "serabali10050@gmail.com",
+                "Name": "Bali10050"
+            },
+            {
+                "Email": "dmhzmxn@gmail.com",
+                "Name": "DevL0rd"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "An 80%-opaque glass variant of the official Darkly Plasma style.",
+        "EnabledByDefault": true,
+        "Id": "darkly-glass",
+        "License": "GPLv2",
+        "Name": "Darkly Glass",
+        "Version": "1.0.0",
+        "Website": "https://github.com/DevL0rd/Linux-Darkly-Modifications"
+    },
+    "X-Plasma-API": "5.0"
+}

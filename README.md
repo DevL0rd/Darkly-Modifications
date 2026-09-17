@@ -14,8 +14,8 @@ manager backgrounds.
 ## Install
 
 ```bash
-git clone https://github.com/DevL0rd/Linux-Darkly-Modifications.git
-cd Linux-Darkly-Modifications
+git clone https://github.com/DevL0rd/Darkly-Modifications.git
+cd Darkly-Modifications
 ./install.sh
 ```
 
